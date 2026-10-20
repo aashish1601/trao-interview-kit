@@ -1,0 +1,14 @@
+**/node_modules/
+**/dist/
+**/.next/
+**/.env
+**/.env.*
+!**/.env.example
+coverage/
+*.log
+*.tsbuildinfo
+mongo-data/
+*.ps1
+.vscode/
+.idea/
+.DS_Store

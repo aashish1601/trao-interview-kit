@@ -1,0 +1,14 @@
+[
+  {
+    "id": "case-01",
+    "jd": "Senior Full-Stack Engineer\n\nAbout the role:\nWe are looking for a Senior Full-Stack Engineer to lead the architecture of our real-time collaboration platform.\n\nResponsibilities:\n- Design and implement scalable distributed web applications\n- Mentor junior and mid-level engineers through code reviews and pair programming\n- Collaborate closely with product management and designers to refine specifications\n- Drive architectural improvements across our core services\n\nRequirements:\n- Required: 5+ years of experience with TypeScript and modern React\n- Required: 4+ years building backend microservices with Node.js\n- Required: Strong experience with relational databases and SQL optimization\n- Required: Proven track record of mentoring and technical leadership\n- Bonus: Hands-on experience with Docker, Kubernetes, and AWS\n- Nice-to-have: Familiarity with WebSockets, real-time messaging, and Redis",
+    "company_url": "https://posthog.com",
+    "days": 5
+  },
+  {
+    "id": "case-02-stub-jd",
+    "jd": "Software Developer\n\nJoin our passionate team building next-generation developer tooling. Work hard, ship fast.",
+    "company_url": "https://example.com",
+    "days": 2
+  }
+]

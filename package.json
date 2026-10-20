@@ -1,0 +1,11 @@
+{
+  "name": "interview-kit-assessment",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "evaluate": "npm --prefix backend run evaluate --",
+    "test:backend": "npm --prefix backend test",
+    "build:backend": "npm --prefix backend run build",
+    "build:frontend": "npm --prefix frontend run build"
+  }
+}

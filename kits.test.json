@@ -1,0 +1,323 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-10-19T19:28:43.253Z",
+  "kits": [
+    {
+      "id": "case-01",
+      "status": "ok",
+      "kit": {
+        "source": {
+          "company": "posthog",
+          "company_url": "https://posthog.com",
+          "role": "Senior Full-Stack Engineer",
+          "location": "Not specified",
+          "jd_chars": 897,
+          "researched_at": "2026-10-19T19:28:43.068Z",
+          "pages_used": []
+        },
+        "company_brief": {
+          "summary": "posthog information could not be retrieved, so this brief does not make claims about the company. No public interview discussion was found in the available search results.",
+          "what_they_do": "The company website did not provide enough accessible information to describe what the company does.",
+          "sources": []
+        },
+        "role": {
+          "title": "Senior Full-Stack Engineer",
+          "seniority": "Senior",
+          "responsibilities": [
+            "We are looking for a Senior Full-Stack Engineer to lead the architecture of our real-time collaboration platform",
+            "Design and implement scalable distributed web applications",
+            "Mentor junior and mid-level engineers through code reviews and pair programming",
+            "Collaborate closely with product management and designers to refine specifications",
+            "Drive architectural improvements across our core services"
+          ],
+          "requirements": [
+            {
+              "id": "r1",
+              "text": "5+ years of experience with TypeScript and modern React",
+              "kind": "technical",
+              "priority": "must"
+            },
+            {
+              "id": "r2",
+              "text": "4+ years building backend microservices with Node.js",
+              "kind": "technical",
+              "priority": "must"
+            },
+            {
+              "id": "r3",
+              "text": "Strong experience with relational databases and SQL optimization",
+              "kind": "technical",
+              "priority": "must"
+            },
+            {
+              "id": "r4",
+              "text": "Proven track record of mentoring and technical leadership",
+              "kind": "behavioural",
+              "priority": "must"
+            },
+            {
+              "id": "r5",
+              "text": "Hands-on experience with Docker, Kubernetes, and AWS",
+              "kind": "technical",
+              "priority": "nice"
+            },
+            {
+              "id": "r6",
+              "text": "Familiarity with WebSockets, real-time messaging, and Redis",
+              "kind": "domain",
+              "priority": "nice"
+            }
+          ]
+        },
+        "questions": [
+          {
+            "id": "q1",
+            "requirement_ids": [
+              "r1"
+            ],
+            "category": "technical",
+            "prompt": "Describe a project where you used this requirement: 5+ years of experience with TypeScript and modern React. What decisions did you make, what trade-offs mattered, and what was the outcome?",
+            "answer_outline": "Use a specific example. Explain the context, your own actions, the reasoning behind your choices, the result, and what you would improve next time.",
+            "difficulty": 2
+          },
+          {
+            "id": "q2",
+            "requirement_ids": [
+              "r2"
+            ],
+            "category": "technical",
+            "prompt": "Describe a project where you used this requirement: 4+ years building backend microservices with Node.js. What decisions did you make, what trade-offs mattered, and what was the outcome?",
+            "answer_outline": "Use a specific example. Explain the context, your own actions, the reasoning behind your choices, the result, and what you would improve next time.",
+            "difficulty": 2
+          },
+          {
+            "id": "q3",
+            "requirement_ids": [
+              "r3"
+            ],
+            "category": "technical",
+            "prompt": "Describe a project where you used this requirement: Strong experience with relational databases and SQL optimization. What decisions did you make, what trade-offs mattered, and what was the outcome?",
+            "answer_outline": "Use a specific example. Explain the context, your own actions, the reasoning behind your choices, the result, and what you would improve next time.",
+            "difficulty": 2
+          },
+          {
+            "id": "q4",
+            "requirement_ids": [
+              "r5"
+            ],
+            "category": "technical",
+            "prompt": "Describe a project where you used this requirement: Hands-on experience with Docker, Kubernetes, and AWS. What decisions did you make, what trade-offs mattered, and what was the outcome?",
+            "answer_outline": "Use a specific example. Explain the context, your own actions, the reasoning behind your choices, the result, and what you would improve next time.",
+            "difficulty": 1
+          },
+          {
+            "id": "q5",
+            "requirement_ids": [
+              "r4"
+            ],
+            "category": "behavioural",
+            "prompt": "Tell me about a time you demonstrated this requirement: Proven track record of mentoring and technical leadership. What was the situation, what did you do, and what changed?",
+            "answer_outline": "Use a specific example. Explain the context, your own actions, the reasoning behind your choices, the result, and what you would improve next time.",
+            "difficulty": 2
+          },
+          {
+            "id": "q6",
+            "requirement_ids": [
+              "r6"
+            ],
+            "category": "company-fit",
+            "prompt": "How would you apply this requirement in the context of the role and the company information available: Familiarity with WebSockets, real-time messaging, and Redis?",
+            "answer_outline": "Use a specific example. Explain the context, your own actions, the reasoning behind your choices, the result, and what you would improve next time.",
+            "difficulty": 1
+          }
+        ],
+        "flashcards": [
+          {
+            "id": "f1",
+            "front": "In an interview, how would you demonstrate deep competence in: 5+ years of experience with TypeScript and modern React?",
+            "back": "Highlight your core technical approach, specific tools used, a concrete past project, and the measurable outcome achieved.",
+            "requirement_ids": [
+              "r1"
+            ]
+          },
+          {
+            "id": "f2",
+            "front": "In an interview, how would you demonstrate deep competence in: 4+ years building backend microservices with Node.js?",
+            "back": "Highlight your core technical approach, specific tools used, a concrete past project, and the measurable outcome achieved.",
+            "requirement_ids": [
+              "r2"
+            ]
+          },
+          {
+            "id": "f3",
+            "front": "In an interview, how would you demonstrate deep competence in: Strong experience with relational databases and SQL optimization?",
+            "back": "Highlight your core technical approach, specific tools used, a concrete past project, and the measurable outcome achieved.",
+            "requirement_ids": [
+              "r3"
+            ]
+          },
+          {
+            "id": "f4",
+            "front": "In an interview, how would you demonstrate deep competence in: Proven track record of mentoring and technical leadership?",
+            "back": "Highlight your core technical approach, specific tools used, a concrete past project, and the measurable outcome achieved.",
+            "requirement_ids": [
+              "r4"
+            ]
+          },
+          {
+            "id": "f5",
+            "front": "In an interview, how would you demonstrate deep competence in: Hands-on experience with Docker, Kubernetes, and AWS?",
+            "back": "Highlight your core technical approach, specific tools used, a concrete past project, and the measurable outcome achieved.",
+            "requirement_ids": [
+              "r5"
+            ]
+          },
+          {
+            "id": "f6",
+            "front": "In an interview, how would you demonstrate deep competence in: Familiarity with WebSockets, real-time messaging, and Redis?",
+            "back": "Highlight your core technical approach, specific tools used, a concrete past project, and the measurable outcome achieved.",
+            "requirement_ids": [
+              "r6"
+            ]
+          }
+        ],
+        "schedule": {
+          "days_available": 5,
+          "days": [
+            {
+              "day": 1,
+              "focus": "Core preparation: 5+ years of experience with TypeScript and modern React; 4+ years building backend microservices with Node.js",
+              "question_ids": [
+                "q1",
+                "q2"
+              ],
+              "minutes": 54
+            },
+            {
+              "day": 2,
+              "focus": "Core preparation: Strong experience with relational databases and SQL optimization",
+              "question_ids": [
+                "q3"
+              ],
+              "minutes": 42
+            },
+            {
+              "day": 3,
+              "focus": "Practice and review: Proven track record of mentoring and technical leadership",
+              "question_ids": [
+                "q5"
+              ],
+              "minutes": 42
+            },
+            {
+              "day": 4,
+              "focus": "Practice and review: Hands-on experience with Docker, Kubernetes, and AWS",
+              "question_ids": [
+                "q4"
+              ],
+              "minutes": 37
+            },
+            {
+              "day": 5,
+              "focus": "Practice and review: Familiarity with WebSockets, real-time messaging, and Redis",
+              "question_ids": [
+                "q6"
+              ],
+              "minutes": 37
+            }
+          ]
+        },
+        "coverage": {
+          "uncovered_requirement_ids": [],
+          "passes": 1
+        },
+        "research": {
+          "attempted": [
+            {
+              "url": "https://posthog.com/",
+              "status": "failed",
+              "reason": "Source exceeds the 1200000 byte limit."
+            }
+          ],
+          "discussion_found": false,
+          "notes": [
+            "The company website was unreachable; the kit was created from the job description and no company facts were invented.",
+            "Gemini returned HTTP 429 (gemini-flash-latest): {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on t Deterministic fallback was used.",
+            "Public discussion search was skipped because BRAVE_SEARCH_API_KEY is not configured.",
+            "Company pages were unavailable; the brief is intentionally limited.",
+            "Gemini is unavailable for the remaining steps in this run; deterministic fallback was used."
+          ]
+        }
+      },
+      "error": null
+    },
+    {
+      "id": "case-02-stub-jd",
+      "status": "ok",
+      "kit": {
+        "source": {
+          "company": "Example Domain",
+          "company_url": "https://example.com",
+          "role": "Software Developer",
+          "location": "Not specified",
+          "jd_chars": 110,
+          "researched_at": "2026-10-19T19:28:43.252Z",
+          "pages_used": [
+            "https://example.com/"
+          ]
+        },
+        "company_brief": {
+          "summary": "Example Domain: This domain is for use in documentation examples without needing permission. This is not a service; avoid relying on it for testing and monitoring purposes. No hiring process page was found in the accessible site pages. No public interview discussion was found in the available search results.",
+          "what_they_do": "This domain is for use in documentation examples without needing permission. This is not a service; avoid relying on it for testing and monitoring purposes.",
+          "sources": [
+            "https://example.com/"
+          ]
+        },
+        "role": {
+          "title": "Software Developer",
+          "seniority": "Not specified",
+          "responsibilities": [],
+          "requirements": []
+        },
+        "questions": [],
+        "flashcards": [],
+        "schedule": {
+          "days_available": 2,
+          "days": [
+            {
+              "day": 1,
+              "focus": "Review the posting and the company sources that were available",
+              "question_ids": [],
+              "minutes": 25
+            },
+            {
+              "day": 2,
+              "focus": "Revisit your notes and practise explaining your experience aloud",
+              "question_ids": [],
+              "minutes": 25
+            }
+          ]
+        },
+        "coverage": {
+          "uncovered_requirement_ids": [],
+          "passes": 1
+        },
+        "research": {
+          "attempted": [
+            {
+              "url": "https://example.com/",
+              "status": "used"
+            }
+          ],
+          "discussion_found": false,
+          "notes": [
+            "No hiring or interview-process page was discovered in the pages that were accessible.",
+            "Gemini is unavailable for the remaining steps in this run; deterministic fallback was used.",
+            "Public discussion search was skipped because BRAVE_SEARCH_API_KEY is not configured."
+          ]
+        }
+      },
+      "error": null
+    }
+  ]
+}
